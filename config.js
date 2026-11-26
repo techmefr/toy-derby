@@ -1,0 +1,1 @@
+window.TOY_DERBY_ENDPOINT = "";
