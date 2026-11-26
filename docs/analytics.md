@@ -1,0 +1,3 @@
+# Analytics
+
+Store anonymous session records in localStorage and allow JSON export. A static GitHub Pages site cannot update repository JSON directly. An optional Google Apps Script endpoint can append records to a private Drive JSON file using a script lock. Configure the endpoint separately; never publish credentials. Ask for explicit consent before sending. Track session ID, rules version, player participations, races, flags, duration, rating and replay intent. Participation counts are not unique people. Public endpoints may receive fabricated data; no-cors submissions cannot confirm persistence. Keep local export as fallback.
