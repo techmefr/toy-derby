@@ -22,3 +22,6 @@ A complete championship is playable without a network. All twelve events and pur
 
 ## Mobile orientation
 On touch devices, gameplay is landscape-only. Portrait displays a rotate-device screen and hides all game controls. Rotating back restores the current screen without resetting the session. Desktop remains usable in a narrow window. Landscape race view places the track beside the controls and standings; setup and prediction screens may scroll vertically.
+
+## Automatic mobile races
+Touch-device sessions use an automatic spectator mode. Once all private predictions and purchases are locked, start after a short delay. Racers move independently by a randomized 1–4 spaces per update, then resolve abilities, events and traps. No die is shown or used in this mode. Update approximately every 1.1 seconds. Pause while portrait or while the document is hidden; resume without advancing missed updates. Finish automatically and display results. Desktop retains the common die for tabletop testing. Record race mode in telemetry; compare balance separately because movement rules differ. Timing and movement range are provisional playtest settings.

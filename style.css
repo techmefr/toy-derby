@@ -48,3 +48,5 @@ button,select,input{touch-action:manipulation}
   label{margin:5px 0}
 }
 @media (orientation:portrait) and (pointer:fine){.race-cockpit{grid-template-columns:1fr}}
+
+.live-race{display:flex;align-items:center;gap:8px;min-height:36px;padding:8px 10px;background:#182941;border:1px solid #6ba77b;border-radius:6px;color:#c5f3d4;font-weight:700;font-size:13px}.live-dot{width:9px;height:9px;border-radius:50%;background:#79d99b;animation:live-pulse 1.1s ease-in-out infinite}@keyframes live-pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.live-dot{animation:none}}

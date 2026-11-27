@@ -24,3 +24,5 @@ Experimental rules are hypotheses, not final balance decisions. See LICENSE for 
 
 ## Mobile play
 Play in landscape orientation. Portrait mode displays a rotation prompt without resetting the current game. Desktop uses a responsive race cockpit.
+
+Mobile races run automatically after all predictions are locked. There is no die or manual race control on touch devices. Desktop retains the manual tabletop playtest mode.
