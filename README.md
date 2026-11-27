@@ -21,3 +21,6 @@ Open index.html in a browser. For GitHub Pages, select main / root in repository
 - [Analytics](docs/analytics.md)
 
 Experimental rules are hypotheses, not final balance decisions. See LICENSE for licensing.
+
+## Mobile play
+Play in landscape orientation. Portrait mode displays a rotation prompt without resetting the current game. Desktop uses a responsive race cockpit.

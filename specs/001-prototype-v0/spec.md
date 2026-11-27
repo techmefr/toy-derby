@@ -18,3 +18,7 @@ Twelve distinct events and twelve distinct purchases (six scoring modifiers and 
 
 ## Acceptance
 A complete championship is playable without a network. All twelve events and purchases are represented in the rules. Results explain scoring. Mobile and desktop layouts remain usable. Feedback distinguishes modes.
+
+
+## Mobile orientation
+On touch devices, gameplay is landscape-only. Portrait displays a rotate-device screen and hides all game controls. Rotating back restores the current screen without resetting the session. Desktop remains usable in a narrow window. Landscape race view places the track beside the controls and standings; setup and prediction screens may scroll vertically.
